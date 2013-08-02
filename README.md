@@ -60,7 +60,7 @@ disadvantage in the benchmarks above.
 Along with implementing every markdown feature, marked also implements
 [GFM features](http://github.github.com/github-flavored-markdown/).
 
-## Options
+## Another Javascript Markdown Parser
 
 marked has a few different switches which change behavior.
 
